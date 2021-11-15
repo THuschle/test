@@ -42,10 +42,10 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="126.369384765625" width="720.9701018605244" x="-229.48505093026225" y="-213.1846923828125"/>
+              <y:Geometry height="126.369384765625" width="739.6576018605244" x="-238.82880093026225" y="-213.1846923828125"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="bold" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="720.9701018605244" x="0.0" xml:space="preserve" y="0.0">Prefixes   </y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="bold" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="739.6576018605244" x="0.0" xml:space="preserve" y="0.0">Prefixes   </y:NodeLabel>
               <y:Shape type="rectangle"/>
               <y:DropShadow color="#D2D2D2" offsetX="4" offsetY="4"/>
               <y:State closed="false" closedHeight="74.509765625" closedWidth="387.8295898437501" innerGraphDisplayEnabled="false"/>
@@ -73,9 +73,9 @@
               <y:Geometry height="22.2421875" width="31.4345703125" x="-34.71728515625" y="-155.5269775390625"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="16" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="339.1953125" x="-153.88037109375" xml:space="preserve" y="-20.28125">:	www.example.org/test#
-owl:	http://www.w3.org/2002/07/owl#
-rdfs:	http://www.w3.org/2000/01/rdf-schema#</y:NodeLabel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="16" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="357.8828125" x="-163.22412109375" xml:space="preserve" y="-20.28125">:	&lt;www.example.org/test#&gt;
+owl:	&lt;http://www.w3.org/2002/07/owl#&gt;
+rdfs:	&lt;http://www.w3.org/2000/01/rdf-schema#&gt;</y:NodeLabel>
               <y:Shape type="rectangle"/>
             </y:ShapeNode>
           </data>
