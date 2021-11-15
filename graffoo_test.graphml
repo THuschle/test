@@ -42,7 +42,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="126.369384765625" width="720.9701018605244" x="-240.48505093026225" y="21.22119140625"/>
+              <y:Geometry height="126.369384765625" width="720.9701018605244" x="-229.48505093026225" y="-213.1846923828125"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="bold" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="720.9701018605244" x="0.0" xml:space="preserve" y="0.0">Prefixes   </y:NodeLabel>
@@ -53,7 +53,7 @@
               <y:BorderInsets bottom="11" bottomF="11.188232421875" left="26" leftF="25.887394680262247" right="326" rightF="325.8873946802622" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="50.0" width="50.0" x="95.0" y="65.0"/>
+              <y:Geometry height="50.0" width="50.0" x="65.0" y="275.0"/>
               <y:Fill color="#F2F0D8" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B7B69E" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.02685546875" x="-4.513427734375" xml:space="preserve" y="0.0">Folder 2</y:NodeLabel>
@@ -70,7 +70,7 @@
         <node id="n2::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="22.2421875" width="31.4345703125" x="-45.71728515625" y="78.87890625"/>
+              <y:Geometry height="22.2421875" width="31.4345703125" x="-34.71728515625" y="-155.5269775390625"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle hasColor="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="left" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="16" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="339.1953125" x="-153.88037109375" xml:space="preserve" y="-20.28125">:	www.example.org/test#
